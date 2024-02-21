@@ -4,6 +4,7 @@ CPATH2='.:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar:grading-area'
 
 rm -rf student-submission
 rm -rf grading-area
+rm -rf output.txt
 
 mkdir grading-area
 
